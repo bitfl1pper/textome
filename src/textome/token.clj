@@ -18,6 +18,7 @@
 
 ;;;; Functions below are utility functions borrowed, should be moved to another ns
 ;;;; for repl play
+;;;; ALL BELOW IS TEMPORARY, TODELETE
 
 (defn loadfile
   "Load in file for parsing.
