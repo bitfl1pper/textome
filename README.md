@@ -2,7 +2,13 @@
 
 text analysis software
 
-first steps
+This is a rewrite from scratch of some text analysis software I wrote earlier this year.
+The other software was really hacky so I'm using it as reference while I build this 
+repo from scratch.
+
+Roadmap coming soon... 
+
+first steps (roadmap coming soon...)
 
 1. tokenize
 2. ngrams
