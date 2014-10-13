@@ -1,8 +1,9 @@
 # textome
 
-textual analysis software
+text analysis software
 
 first steps
+
 1. tokenize
 2. ngrams
 
